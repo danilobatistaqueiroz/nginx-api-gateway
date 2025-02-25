@@ -7,16 +7,16 @@ v- Rotas
 x- Authentication - JWT  
 v- Observability - Prometheus, Grafana, AlertManager  
 v- SSL  
-v- Load Balancing - least connections, round robin, weight, ip hash
-x- Health Checks - low startup, max fails, fail timeout
-v- Keepalive
+v- Load Balancing - least connections, round robin, weight, ip hash  
+x- Health Checks - low startup, max fails, fail timeout  
+v- Keepalive Connections  
 
 ### Grafana
 
 localhost:3000
 
-user/password:  
-admin  
+user/password:    
+admin   
 admin  
 
 reset admin password:  
